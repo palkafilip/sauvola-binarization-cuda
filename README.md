@@ -1,4 +1,4 @@
-## sauvola-binarization-CUDA
+## sauvola-binarization-cuda
 
-Simple image binarization using GPU with CUDA technology.
+Simple image binarization using GPU with CUDA technology.\
 Sample images are in original_images folder and their binary versions are in binarized_images.
